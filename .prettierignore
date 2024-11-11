@@ -1,0 +1,5 @@
+**/*.js
+**/*.jsx
+**/*.md
+pnpm-lock.yaml
+.circleci/config.yml
